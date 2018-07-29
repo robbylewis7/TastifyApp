@@ -2,7 +2,7 @@
 
 Here is the view that you get once you have landed on the page. It will prompt you to login with your Spotify credentials.
 
-![Landing Page](/ScreenShot/tastifyOne.png)
+![Landing Page](/ScreenShot/tastifyFour.png)
 
 #
 Below is where the Tastedive API kicks in. Here is where you will search for an artist that you like and related artists will be produced.
